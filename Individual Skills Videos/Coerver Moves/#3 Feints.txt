@@ -1,0 +1,30 @@
+Feints
+
+Feints in soccer are deceptive movements used by players to mislead an opponent about their intended action. They involve a player faking a move, such as a pass, shot, or direction change, to create space or get past a defender. The effectiveness of a feint lies in its ability to momentarily freeze or wrong-foot a defender, allowing the attacking player to gain an advantage.
+
+A feint can be a body movement, a look, a gesture with the foot, or a combination of these. For instance, a player might pretend to strike the ball for a shot but instead change direction, or give the impression of passing before accelerating past an opponent. The key to a successful feint is its believability; it must be convincing enough to cause the defender to react.
+
+Feints are an integral part of a soccer player's dribbling arsenal and require agility, quick thinking, and technical skill. They are particularly useful in one-on-one situations and can be seen in various forms, from simple shoulder drops or head fakes to more complex footwork like the step-over or the Marseille turn.
+
+Effective use of feints not only aids in penetrating defensive lines but also adds an element of unpredictability and flair to a player's style of play.
+
+# 028 Scissors
+# 029 Side Step
+# 030 Step Over
+# 031 Stop Shimmy
+# 032 Drag Push
+# 033 Push Whip
+# 034 Drag Scissors
+# 035 Double Side Step
+# 036 Double Step Over
+# 037 Double Scissors
+# 038 Drag Side Step
+# 039 Scissor Step Over
+# 040 Hop
+# 041 Step Over Scissors
+# 042 Step Behind
+# 043 V-Behind
+# 044 Slap Step Over
+# 045 V-Drag Push
+# 046 Drag Whip
+# 047 Shimmy Step Over

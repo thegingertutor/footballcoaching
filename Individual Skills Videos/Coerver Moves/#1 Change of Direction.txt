@@ -1,0 +1,23 @@
+Change of Direction
+
+Change of Direction moves in soccer are a set of techniques used by players to quickly alter their course and evade defenders. These maneuvers are crucial for maintaining possession, creating space, and navigating through tight defensive setups. Typically, they involve quick footwork and agile movements, allowing the player to shift the ball away from an opponent and change their running direction simultaneously.
+
+Change of Direction moves can be as simple as a sharp turn with the ball or more complex techniques like the Cruyff Turn, where the player fakes a pass or shot before dragging the ball behind their standing leg with the inside of their foot.
+
+These moves require good balance, coordination, and ball control. When executed effectively, Change of Direction moves can create opportunities for advancing the play, breaking through defensive lines, or opening up space for a pass or shot. They are fundamental skills in a soccer player's repertoire, enhancing their ability to maneuver in diverse match situations.
+
+# 000 Reverse Cut
+# 001 Inside Cut
+# 002 Outside Cut
+# 003 Step On
+# 004 Drag Back
+# 005 Chop
+# 006 Step Around
+# 007 Slap Cut
+# 008 Dribble Cut
+# 009 Inside Twist Off
+# 010 Outside Twist
+# 011 Hook Turn
+# 012 U Turn
+# 013 Slap Pull Behind
+# 014 Half Pull Spin

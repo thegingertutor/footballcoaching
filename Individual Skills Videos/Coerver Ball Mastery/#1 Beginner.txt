@@ -1,0 +1,38 @@
+Beginner
+
+The Beginner Section of the Coerver Pyramid of Ball Mastery focuses on introducing fundamental ball control skills. This foundational stage is designed for players who are new to the game or those looking to solidify their basic techniques. It typically includes exercises that teach players how to manipulate the ball using different parts of both feet, such as the inside, outside, and sole.
+
+The goal is to develop a player's comfort and confidence with the ball at their feet, laying the groundwork for more complex skills and moves. The Beginner Section emphasizes repetition and gradual progress, ensuring that each player builds a solid base of ball mastery before advancing to more challenging techniques.
+
+This level of the pyramid is crucial as it sets the tone for a player’s development, highlighting the importance of touch, control, and coordination in soccer.
+
+# 001 Sole Taps
+# 002 Shuffles
+# 003 Shuffle Stop
+# 004 Take Stops
+# 005 Shuffle Stop Take
+# 006 Shuffle Take
+# 007 Shuffle Stop Slide
+# 008 Slides
+# 009 Roll Up Inside
+# 010 Roll Up Outside
+# 011 Heel Toe Rolls
+# 012 Inside Outside Rolls
+# 013 Roll Overs
+# 014 Inside Outside Roll Overs
+# 015 Shuffle Roll Over
+# 016 Take Stop Scissor
+# 017 Take Scissors
+# 018 Take Stop Step Over
+# 019 Take Stepover
+# 020 Take Stop Lunge
+# 021 Rollie Ollie
+# 022 Dribble Cut Single Foot
+# 023 Dribble Cut Both Feet
+# 024 Shuffle Roll Overs
+# 025 Outside Roll Up Pull Across
+# 026 Inside Outside Roll Up Pull Across
+# 027 Shuffle Stop Take Stop Skip
+# 028 Shuffle Stop Skip
+# 029 Stop Skip Behind Dribble Cut
+# 030 Attacking V Pull Push Outside
